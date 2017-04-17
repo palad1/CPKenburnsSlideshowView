@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "CPKenburnsView.h"
+#import <CPKenburnsView/CPKenburnsView.h>
 @class CPKenburnsImage;
 @class CPKenburnsView;
 
